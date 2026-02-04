@@ -72,7 +72,8 @@ I specialize in **React and TypeScript ecosystems**, with a focus on complex UI 
 
 ## 🚀 Featured Projects
 
-### **[Image2Doc / NoteOCR](https://github.com/cvassia/NoteOCR)**
+### **[Image2Doc / NoteOCR]
+<!-- (https://github.com/cvassia/NoteOCR)** -->
 ![Image2Doc GIF](https://github.com/cvassia/NoteOCR/raw/main/assets/demo.gif)  
 Cross-platform mobile app converting document photos into editable Word files using Google Document AI OCR.  
 **Stack:** React Native, TypeScript, Node.js, Express   
@@ -95,12 +96,6 @@ Task manager supporting **unlimited nested tasks** and recursive UI rendering.
 🎨 Interactive portfolio with **3D effects and animations**  
 **Stack:** React, TypeScript, Three.js  
 **Live Demo:** [cvassia.com](https://www.cvassia.com)  
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=cvassia&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvassia&layout=compact&theme=radical)
 
 ---
 
