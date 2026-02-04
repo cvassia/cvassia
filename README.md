@@ -73,7 +73,7 @@ I specialize in **React and TypeScript ecosystems**, with a focus on complex UI 
 ## 🚀 Featured Projects
 
 ### **[Image2Doc / NoteOCR](https://github.com/cvassia/NoteOCR)**
-![Image2Doc GIF](https://github.com/cvassia/NoteOCR/raw/main/assets/demo.mp4)  
+![Image2Doc GIF](https://github.com/cvassia/NoteOCR/raw/main/assets/demo.gif)  
 Cross-platform mobile app converting document photos into editable Word files using Google Document AI OCR.  
 **Stack:** React Native, TypeScript, Node.js, Express   
 - OCR integration, dynamic `.docx` generation, secure storage  
