@@ -72,12 +72,13 @@ I specialize in **React and TypeScript ecosystems**, with a focus on complex UI 
 
 ## 🚀 Featured Projects
 
-### **[Image2Doc / NoteOCR](https://apps.apple.com/za/app/image2word/id6757700644)**
+### **[Image2Doc / NoteOCR](https://github.com/cvassia/NoteOCR)**
 ![Image2Doc GIF](https://github.com/cvassia/NoteOCR/raw/main/assets/demo.gif)  
 Cross-platform mobile app converting document photos into editable Word files using Google Document AI OCR.  
 **Stack:** React Native, TypeScript, Node.js, Express   
 - OCR integration, dynamic `.docx` generation, secure storage  
-**Live Demo:** [image2doc.cvassia.com](https://image2doc.cvassia.com/)  
+
+## **Live App:** [image2doc](https://apps.apple.com/za/app/image2word/id6757700644)  
 
 ---
 
@@ -85,8 +86,9 @@ Cross-platform mobile app converting document photos into editable Word files us
 ![Recursive ToDo GIF](https://github.com/cvassia/recursive-todo-app/raw/main/assets/demo.gif)  
 Task manager supporting **unlimited nested tasks** and recursive UI rendering.  
 **Stack:** TypeScript, Remix, Appwrite 
-- Recursive UI, authentication, backend integration, unit-tested logic  
-**Live Demo:** [recursivetodoapp.cvassia.com](https://recursivetodoapp.cvassia.com/)  
+- Recursive UI, authentication, backend integration, unit-tested logic 
+
+## **Live Demo:** [recursivetodoapp.cvassia.com](https://recursivetodoapp.cvassia.com/)  
 
 ---
 
@@ -94,7 +96,8 @@ Task manager supporting **unlimited nested tasks** and recursive UI rendering.
 ![3D Portfolio GIF](https://github.com/cvassia/3dPortfolio/raw/main/assets/demo.gif)  
 🎨 Interactive portfolio with **3D effects and animations**  
 **Stack:** React, TypeScript, Three.js  
-**Live Demo:** [cvassia.com](https://www.cvassia.com)  
+
+## **Live Demo:** [cvassia.com](https://www.cvassia.com)  
 
 ---
 
